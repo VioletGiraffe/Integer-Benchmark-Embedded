@@ -1,4 +1,4 @@
-# EmbeddedLinpack
+# Embedded Integer Math Benchmark
 
 [![Build Status](https://travis-ci.org/VioletGiraffe/Integer-Benchmark-Embedded.svg?branch=master)](https://travis-ci.org/VioletGiraffe/Integer-Benchmark-Embedded)
 
